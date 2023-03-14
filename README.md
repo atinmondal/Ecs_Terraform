@@ -1,6 +1,6 @@
 # Automated ECR-ECS deployments
 
-Create the AWS infrastructure (ECS, ECR, ALB,VPC,SG) to deploy a container.
+Create the AWS infrastructure (ECS,ALB,VPC,SG) to deploy a container.
 
 # Core components
 
