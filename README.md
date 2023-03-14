@@ -9,7 +9,7 @@ The AWS infrastructure is setup using terraform in the ./ecs.tf.
 
 The following components are deployed :
 
-Application Load Balancer
-ECS Cluster / ECS Service 
-VPC configuration
-SG configuration
+- Application Load Balancer
+- ECS Cluster / ECS Service 
+- VPC configuration
+- SG configuration
