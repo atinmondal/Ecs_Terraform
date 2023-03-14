@@ -5,9 +5,9 @@ Create the AWS infrastructure (ECS, ECR, ALB,VPC,SG) to deploy a container.
 # Core components
 
 # AWS
-The AWS infrastructure is setup using terraform in the ./terraform.
+The AWS infrastructure is setup using terraform in the ./ecs.tf.
 
-The following components are deployed (./ecs.tf):
+The following components are deployed :
 
 Application Load Balancer
 ECS Cluster / ECS Service 
